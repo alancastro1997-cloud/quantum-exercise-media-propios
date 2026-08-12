@@ -32,6 +32,8 @@ Fuente: `clips-originales/*.mov` (28 clips ya recortados con nombre). No incluye
 | 26 | Remo en maquina agarre neutro individual | Remo en maquina agarre neutro individual.mov | remo-maquina-neutro-individual | variante unilateral del #25 |
 | 27 | Remo en maquina agarre supino individual | Remo en maquina agarre supino individual.mov | remo-maquina-supino-individual | |
 | 28 | Aductores en maquina | adcutores en maquina.mov | aductores-en-maquina | **archivo dice "adcutores"** (typo) — corregido aquí a "aductores". Ojo: es el opuesto de #1 (abductores) — confirmar que el clip muestre aducción y no abducción antes de subirlo |
+| 29 | Press de pecho en poleas altas agarre supino | Press de pecho en poleas altas agarre supino.mov | press-pecho-poleas-altas-supino | agregado 12/08/2026 — reemplaza la imagen genérica del dataset que salía para esta prescripción |
+| 30 | Remo en maquina sentado agarre neutro | Remo en maquina sentado agarre neutro.mov | remo-maquina-sentado-neutro | agregado 12/08/2026 — variante sin calificar bilateral/individual; distinto de #25 y #26 |
 
 ## Pendiente de confirmar contigo
 
